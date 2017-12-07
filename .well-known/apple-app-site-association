@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "uk.nhs.nhsonline",
+                "appID": "co.uk.bjss.NHSOnline",
                 "paths": [ "*" ]
             },
             {
