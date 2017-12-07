@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "co.uk.bjss.NHSOnline",
-                "paths": [ "*" ]
+                "paths": ["*"]
             },
             {
                 "appID": "com.williamheng.OpenIdConnect",
