@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "uk.nhs.nhsonline",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "com.williamheng.OpenIdConnect",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
